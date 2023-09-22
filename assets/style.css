@@ -1,0 +1,16 @@
+/* .title{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+} */
+
+.container {
+    margin-top: 5rem;
+    margin-bottom: 0;
+}
+
+@media (max-width:751){
+ 
+
+
+  }
