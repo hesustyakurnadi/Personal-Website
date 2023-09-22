@@ -4,13 +4,8 @@
     text-align: center;
 } */
 
-.container {
-    margin-top: 5rem;
-    margin-bottom: 0;
+section {
+    padding-top: 5rem;
 }
-
-@media (max-width:751){
  
 
-
-  }
